@@ -1,0 +1,11 @@
+.sidebar{
+    flex: 0.2;   /* 20 процентов страницы */
+}
+
+.sidebar > hr{
+    height: 1px;
+    border: none;
+    background-color: lightgrey;
+    margin: 10px 0;
+}
+

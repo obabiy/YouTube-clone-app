@@ -1,0 +1,4 @@
+.recommendedVideos{
+    flex: 0.8;    /* 80 процентов страницы */
+    border: 1px solid #000;
+}
