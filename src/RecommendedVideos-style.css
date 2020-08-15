@@ -1,4 +1,15 @@
 .recommendedVideos{
     flex: 0.8;    /* 80 процентов страницы */
-    border: 1px solid #000;
+    background-color: #f9f9f9;
+    padding: 40px 20px 0
 }
+
+.recommendedVideos > h2{
+    margin: 0 0 20px 5px;
+}
+
+.recommendedVideos__videos{
+    display: flex;
+    flex-wrap: wrap;
+}
+
